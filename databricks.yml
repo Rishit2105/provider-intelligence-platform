@@ -1,0 +1,31 @@
+# Bundle wrapper required by `databricks pipelines deploy`/`databricks bundle
+# deploy` to register Layer 2's Lakeflow Declarative Pipeline as an actual
+# workspace resource. notebooks/pipelines/pipeline.pipeline.yml (renamed
+# from pipeline.yml - see DECISIONS.md, "Layer 2: pipeline.yml renamed to
+# match DAB conventions") could not be used via a plain `include:` - its
+# flat name/catalog/schema/libraries/configuration shape isn't valid at the
+# bundle root and produced "unknown field" warnings with no resource
+# created. Defined directly under resources.pipelines instead, mirroring
+# that file's content exactly rather than replacing it as the source of
+# truth for the pipeline's logical definition.
+bundle:
+  name: provider_intelligence_platform
+
+resources:
+  pipelines:
+    provider_intelligence_history_tracking:
+      name: provider_intelligence_history_tracking
+      catalog: provider_intelligence
+      schema: bronze
+      serverless: true
+      libraries:
+        - glob:
+            include: notebooks/pipelines/transformations/**
+      configuration:
+        pipelines.reset.allowed: "true"
+
+targets:
+  dev:
+    default: true
+    workspace:
+      host: https://dbc-09a75dc0-4c8a.cloud.databricks.com/

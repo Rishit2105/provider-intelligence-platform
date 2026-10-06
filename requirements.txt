@@ -1,0 +1,8 @@
+# Minimal deps - Databricks Free Edition (formerly Community Edition,
+# retired 2026-01-01) already provides pyspark/delta, these are for
+# anything run/tested outside the notebook environment.
+pyspark>=3.5
+streamlit>=1.30
+pandas>=2.0
+jellyfish>=1.0   # Jaro-Winkler string similarity for Layer 1 fallback matching
+pytest>=7.4

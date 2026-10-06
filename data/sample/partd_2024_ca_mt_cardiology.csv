@@ -1,0 +1,501 @@
+Prscrbr_NPI,Prscrbr_Last_Org_Name,Prscrbr_First_Name,Prscrbr_City,Prscrbr_State_Abrvtn,Prscrbr_State_FIPS,Prscrbr_Type,Prscrbr_Type_Src,Brnd_Name,Gnrc_Name,Tot_Clms,Tot_30day_Fills,Tot_Day_Suply,Tot_Drug_Cst,Tot_Benes,GE65_Sprsn_Flag,GE65_Tot_Clms,GE65_Tot_30day_Fills,GE65_Tot_Drug_Cst,GE65_Tot_Day_Suply,GE65_Bene_Sprsn_Flag,GE65_Tot_Benes
+1003017666,Nitzel,Cory,Ventura,CA,06,Cardiology,Claim-Specialty,Amlodipine Besylate,Amlodipine Besylate,46,84,2520,96.31,,,46,84,96.31,2520,*,
+1003017666,Nitzel,Cory,Ventura,CA,06,Cardiology,Claim-Specialty,Atorvastatin Calcium,Atorvastatin Calcium,61,151.2,4535,395.23,16,,61,151.2,395.23,4535,,16
+1003017666,Nitzel,Cory,Ventura,CA,06,Cardiology,Claim-Specialty,Carvedilol,Carvedilol,41,97,2910,171.53,14,#,,,,,#,
+1003017666,Nitzel,Cory,Ventura,CA,06,Cardiology,Claim-Specialty,Clopidogrel,Clopidogrel Bisulfate,11,31.1,933,122.26,,*,,,,,*,
+1003017666,Nitzel,Cory,Ventura,CA,06,Cardiology,Claim-Specialty,Eliquis,Apixaban,86,128,3840,75128.77,17,#,,,,,#,
+1003017666,Nitzel,Cory,Ventura,CA,06,Cardiology,Claim-Specialty,Furosemide,Furosemide,37,72.1,2163,117.83,12,#,,,,,#,
+1003017666,Nitzel,Cory,Ventura,CA,06,Cardiology,Claim-Specialty,Isosorbide Mononitrate Er,Isosorbide Mononitrate,12,36,1080,118.36,,,12,36,118.36,1080,*,
+1003017666,Nitzel,Cory,Ventura,CA,06,Cardiology,Claim-Specialty,Jardiance,Empagliflozin,20,28,814,14514.85,,,20,28,14514.85,814,*,
+1003017666,Nitzel,Cory,Ventura,CA,06,Cardiology,Claim-Specialty,Lisinopril,Lisinopril,54,127.7,3830,219.71,16,#,,,,,#,
+1003017666,Nitzel,Cory,Ventura,CA,06,Cardiology,Claim-Specialty,Losartan Potassium,Losartan Potassium,49,123,3690,318.94,13,,32,96,270.66,2880,*,
+1003017666,Nitzel,Cory,Ventura,CA,06,Cardiology,Claim-Specialty,Metoprolol Succinate,Metoprolol Succinate,91,186.1,5584,818.01,24,#,,,,,#,
+1003017666,Nitzel,Cory,Ventura,CA,06,Cardiology,Claim-Specialty,Metoprolol Tartrate,Metoprolol Tartrate,39,86,2580,118.01,,,25,66,81.98,1980,*,
+1003017666,Nitzel,Cory,Ventura,CA,06,Cardiology,Claim-Specialty,Nifedipine Er,Nifedipine,38,60.6,1818,613.15,,,23,41.2,284.13,1236,*,
+1003017666,Nitzel,Cory,Ventura,CA,06,Cardiology,Claim-Specialty,Nitroglycerin,Nitroglycerin,17,35.7,939,454.59,,#,,,,,*,
+1003017666,Nitzel,Cory,Ventura,CA,06,Cardiology,Claim-Specialty,Potassium Chloride,Potassium Chloride,14,18,540,71.65,,,14,18,71.65,540,*,
+1003017666,Nitzel,Cory,Ventura,CA,06,Cardiology,Claim-Specialty,Rosuvastatin Calcium,Rosuvastatin Calcium,65,141.3,4240,876.92,17,#,,,,,#,
+1003017666,Nitzel,Cory,Ventura,CA,06,Cardiology,Claim-Specialty,Spironolactone,Spironolactone,31,43,1290,95.99,,,31,43,95.99,1290,*,
+1003017666,Nitzel,Cory,Ventura,CA,06,Cardiology,Claim-Specialty,Torsemide,Torsemide,11,11,330,68.66,,,11,11,68.66,330,*,
+1003017666,Nitzel,Cory,Ventura,CA,06,Cardiology,Claim-Specialty,Xarelto,Rivaroxaban,29,53,1590,28544.87,,,29,53,28544.87,1590,*,
+1003025743,Gandhi,Nainesh,Fontana,CA,06,Cardiology,Claim-Specialty,Amiodarone Hcl,Amiodarone Hcl,61,185.3,5560,1627.79,25,,61,185.3,1627.79,5560,,25
+1003025743,Gandhi,Nainesh,Fontana,CA,06,Cardiology,Claim-Specialty,Amlodipine Besylate,Amlodipine Besylate,78,237.4,7122,961,34,,78,237.4,961,7122,,34
+1003025743,Gandhi,Nainesh,Fontana,CA,06,Cardiology,Claim-Specialty,Atenolol,Atenolol,19,54,1620,234.4,,,19,54,234.4,1620,*,
+1003025743,Gandhi,Nainesh,Fontana,CA,06,Cardiology,Claim-Specialty,Atorvastatin Calcium,Atorvastatin Calcium,57,185.7,5570,718.99,28,#,,,,,#,
+1003025743,Gandhi,Nainesh,Fontana,CA,06,Cardiology,Claim-Specialty,Bisoprolol Fumarate,Bisoprolol Fumarate,210,576,17207,5024.35,81,#,,,,,#,
+1003025743,Gandhi,Nainesh,Fontana,CA,06,Cardiology,Claim-Specialty,Brilinta,Ticagrelor,38,61.3,1813,29471.71,,,38,61.3,29471.71,1813,*,
+1003025743,Gandhi,Nainesh,Fontana,CA,06,Cardiology,Claim-Specialty,Cartia Xt,Diltiazem Hcl,15,43.3,1300,479.72,11,,15,43.3,479.72,1300,,11
+1003025743,Gandhi,Nainesh,Fontana,CA,06,Cardiology,Claim-Specialty,Carvedilol,Carvedilol,56,124.4,3732,592.39,21,#,,,,,#,
+1003025743,Gandhi,Nainesh,Fontana,CA,06,Cardiology,Claim-Specialty,Clopidogrel,Clopidogrel Bisulfate,33,96,2851,578.83,13,#,,,,,#,
+1003025743,Gandhi,Nainesh,Fontana,CA,06,Cardiology,Claim-Specialty,Dabigatran Etexilate,Dabigatran Etexilate Mesylate,22,45,1350,2955.07,21,,22,45,2955.07,1350,,21
+1003025743,Gandhi,Nainesh,Fontana,CA,06,Cardiology,Claim-Specialty,Digoxin,Digoxin,20,62,1860,313.5,,,20,62,313.5,1860,*,
+1003025743,Gandhi,Nainesh,Fontana,CA,06,Cardiology,Claim-Specialty,Diltiazem 24hr Er (Cd),Diltiazem Hcl,17,48.3,1450,438.44,,,17,48.3,438.44,1450,*,
+1003025743,Gandhi,Nainesh,Fontana,CA,06,Cardiology,Claim-Specialty,Diltiazem Hcl,Diltiazem Hcl,17,40.7,1220,472.81,,,17,40.7,472.81,1220,*,
+1003025743,Gandhi,Nainesh,Fontana,CA,06,Cardiology,Claim-Specialty,Eliquis,Apixaban,16,26,765,15497.65,,,16,26,15497.65,765,*,
+1003025743,Gandhi,Nainesh,Fontana,CA,06,Cardiology,Claim-Specialty,Ezetimibe,Ezetimibe,16,53.3,1600,186.72,,#,,,,,*,
+1003025743,Gandhi,Nainesh,Fontana,CA,06,Cardiology,Claim-Specialty,Furosemide,Furosemide,119,283.5,8500,1570.38,44,#,,,,,#,
+1003025743,Gandhi,Nainesh,Fontana,CA,06,Cardiology,Claim-Specialty,Hydralazine Hcl,Hydralazine Hcl,38,106.5,3107,432.41,14,,38,106.5,432.41,3107,,14
+1003025743,Gandhi,Nainesh,Fontana,CA,06,Cardiology,Claim-Specialty,Isosorbide Mononitrate Er,Isosorbide Mononitrate,78,216,6480,1170.47,32,#,,,,,#,
+1003025743,Gandhi,Nainesh,Fontana,CA,06,Cardiology,Claim-Specialty,Lisinopril,Lisinopril,55,131.2,3931,768.59,22,#,,,,,#,
+1003025743,Gandhi,Nainesh,Fontana,CA,06,Cardiology,Claim-Specialty,Losartan Potassium,Losartan Potassium,32,94.3,2806,388.98,18,,32,94.3,388.98,2806,,18
+1003025743,Gandhi,Nainesh,Fontana,CA,06,Cardiology,Claim-Specialty,Metoprolol Succinate,Metoprolol Succinate,26,69.9,2096,349.46,12,#,,,,,#,
+1003025743,Gandhi,Nainesh,Fontana,CA,06,Cardiology,Claim-Specialty,Metoprolol Tartrate,Metoprolol Tartrate,168,481.5,14340,1451.82,61,,156,454.6,1372.61,13594,#,
+1003025743,Gandhi,Nainesh,Fontana,CA,06,Cardiology,Claim-Specialty,Nitroglycerin,Nitroglycerin,61,63.5,1755,798.94,34,#,,,,,#,
+1003025743,Gandhi,Nainesh,Fontana,CA,06,Cardiology,Claim-Specialty,Potassium Chloride,Potassium Chloride,103,247.9,7410,3041.69,40,,103,247.9,3041.69,7410,,40
+1003025743,Gandhi,Nainesh,Fontana,CA,06,Cardiology,Claim-Specialty,Pradaxa,Dabigatran Etexilate Mesylate,174,286,8580,29154.92,44,,174,286,29154.92,8580,,44
+1003025743,Gandhi,Nainesh,Fontana,CA,06,Cardiology,Claim-Specialty,Rosuvastatin Calcium,Rosuvastatin Calcium,11,29.7,890,106.02,,,11,29.7,106.02,890,*,
+1003025743,Gandhi,Nainesh,Fontana,CA,06,Cardiology,Claim-Specialty,Sotalol,Sotalol Hcl,12,16.3,490,199.98,,,12,16.3,199.98,490,*,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Amiodarone Hcl,Amiodarone Hcl,42,101.9,3003,1350.27,21,#,,,,,#,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Amlodipine Besylate,Amlodipine Besylate,381,1116.8,33497,3110.09,135,#,,,,,#,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Atenolol,Atenolol,58,175,5250,502.67,19,#,,,,,#,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Atorvastatin Calcium,Atorvastatin Calcium,565,1651.2,49457,6839.86,194,,549,1603.2,6721.36,48017,#,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Bumetanide,Bumetanide,13,38.7,1160,1010.15,,,13,38.7,1010.15,1160,*,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Cartia Xt,Diltiazem Hcl,28,82,2460,947.39,11,,28,82,947.39,2460,,11
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Carvedilol,Carvedilol,136,392,11760,1220.22,45,#,,,,,#,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Clonidine Hcl,Clonidine Hcl,32,92,2760,461.38,13,,32,92,461.38,2760,,13
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Clopidogrel,Clopidogrel Bisulfate,94,277,8310,1220.23,30,#,,,,,#,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Dabigatran Etexilate,Dabigatran Etexilate Mesylate,31,57,1710,8688.08,,,31,57,8688.08,1710,*,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Digoxin,Digoxin,61,165,4950,1425.67,23,,61,165,1425.67,4950,,23
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Dilt-Xr,Diltiazem Hcl,11,33,990,514.23,,,11,33,514.23,990,*,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Diltiazem 24hr Er (Cd),Diltiazem Hcl,172,466.1,13968,5398.7,69,#,,,,,#,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Diltiazem Hcl,Diltiazem Hcl,39,61.5,1501,908.41,24,,39,61.5,908.41,1501,,24
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Eliquis,Apixaban,531,1249.3,37118,705042.5,143,,531,1249.3,705042.5,37118,,143
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Entresto,Sacubitril/Valsartan,161,330,9857,216507.93,49,#,,,,,#,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Ezetimibe,Ezetimibe,179,504.1,15095,7075.79,63,#,,,,,#,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Farxiga,Dapagliflozin Propanediol,82,150,4476,82049.68,25,,82,150,82049.68,4476,,25
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Flecainide Acetate,Flecainide Acetate,52,132,3915,2315.12,15,,52,132,2315.12,3915,,15
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Furosemide,Furosemide,201,541.1,16178,1307.48,80,#,,,,,#,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Hydralazine Hcl,Hydralazine Hcl,56,159.7,4771,1168.32,20,#,,,,,#,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Hydrochlorothiazide,Hydrochlorothiazide,177,513.5,15359,1609.3,61,#,,,,,#,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Isosorbide Mononitrate Er,Isosorbide Mononitrate,68,202,6060,1428.02,24,,68,202,1428.02,6060,,24
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Jardiance,Empagliflozin,52,116.7,3500,64301.11,20,#,,,,,#,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Lisinopril,Lisinopril,250,726.5,21786,2076.33,87,,250,726.5,2076.33,21786,,87
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Losartan Potassium,Losartan Potassium,343,1001,30030,3970.8,115,#,,,,,#,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Lovastatin,Lovastatin,19,43,1290,319.16,,,19,43,319.16,1290,*,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Metoprolol Succinate,Metoprolol Succinate,799,2294.6,68800,12454.51,271,,786,2259.6,12309.21,67750,#,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Metoprolol Tartrate,Metoprolol Tartrate,130,349,10444,853.6,47,#,,,,,#,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Multaq,Dronedarone Hcl,14,38,1140,28876.08,,,14,38,28876.08,1140,*,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Nebivolol Hcl,Nebivolol Hcl,44,106,3180,2717.81,14,#,,,,,#,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Nitroglycerin,Nitroglycerin,47,55,1260,551.47,23,,47,55,551.47,1260,,23
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Olmesartan Medoxomil,Olmesartan Medoxomil,15,45,1350,292.56,,,15,45,292.56,1350,*,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Pantoprazole Sodium,Pantoprazole Sodium,11,33,990,445.82,,,11,33,445.82,990,*,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Potassium Chloride,Potassium Chloride,35,95,2825,660.32,16,,35,95,660.32,2825,,16
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Pravastatin Sodium,Pravastatin Sodium,60,158,4740,699.93,23,,60,158,699.93,4740,,23
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Propranolol Hcl,Propranolol Hcl,11,33,990,104.3,,,11,33,104.3,990,*,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Ramipril,Ramipril,13,39,1170,307.88,,,13,39,307.88,1170,*,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Repatha Sureclick,Evolocumab,103,187.7,5523,105506.16,27,#,,,,,#,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Rosuvastatin Calcium,Rosuvastatin Calcium,473,1388.1,41623,9203.28,156,#,,,,,#,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Simvastatin,Simvastatin,18,30,880,263.88,,,18,30,263.88,880,*,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Sotalol,Sotalol Hcl,16,44.5,1335,416.63,,,16,44.5,416.63,1335,*,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Spironolactone,Spironolactone,143,422.7,12680,1143.18,56,#,,,,,#,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Valsartan,Valsartan,28,80,2400,1324.12,12,,28,80,1324.12,2400,,12
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Vascepa,Icosapent Ethyl,42,98.5,2930,28231.82,12,#,,,,,#,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Verapamil Er,Verapamil Hcl,11,31,930,226.09,,,11,31,226.09,930,*,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Warfarin Sodium,Warfarin Sodium,32,83.8,2512,630.91,11,#,,,,,*,
+1003083031,Canet,Frances,Auburn,CA,06,Cardiology,Claim-Specialty,Xarelto,Rivaroxaban,133,357,10710,197798.86,38,,133,357,197798.86,10710,,38
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Amlodipine Besylate,Amlodipine Besylate,97,186.3,5569,343.27,25,#,,,,,#,
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Atenolol,Atenolol,13,23,690,19.61,,*,,,,,*,
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Atorvastatin Calcium,Atorvastatin Calcium,42,113.3,3377,260.81,14,,42,113.3,260.81,3377,,14
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Carvedilol,Carvedilol,178,336,10030,620.49,47,,167,314.3,615.13,9420,#,
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Chlorthalidone,Chlorthalidone,103,202.4,6073,1123.51,30,#,,,,,#,
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Clopidogrel,Clopidogrel Bisulfate,86,195,5850,692.8,26,,75,165,534.2,4950,#,
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Diltiazem 24hr Er,Diltiazem Hcl,24,46,1380,816.16,,,24,46,816.16,1380,*,
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Diltiazem 24hr Er (Cd),Diltiazem Hcl,44,92.8,2785,1107.06,14,,44,92.8,1107.06,2785,,14
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Diltiazem 24hr Er (La),Diltiazem Hcl,29,35.3,946,1672.59,,#,,,,,*,
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Eliquis,Apixaban,183,232.7,6875,133303.35,36,,183,232.7,133303.35,6875,,36
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Entresto,Sacubitril/Valsartan,96,134,3939,86012.06,17,,84,112,71952.18,3279,#,
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Fludrocortisone Acetate,Fludrocortisone Acetate,13,20,600,281.7,,*,,,,,*,
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Furosemide,Furosemide,207,396,11824,902.48,65,,183,348.5,813.11,10399,#,
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Hydralazine Hcl,Hydralazine Hcl,17,33,990,88.74,,*,,,,,*,
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Hydrochlorothiazide,Hydrochlorothiazide,78,168.3,5036,369.88,27,#,,,,,#,
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Isosorbide Mononitrate Er,Isosorbide Mononitrate,23,46.2,1385,110.49,,#,,,,,*,
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Lisinopril,Lisinopril,106,205,6150,282.51,25,,106,205,282.51,6150,,25
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Losartan Potassium,Losartan Potassium,76,139.7,4190,473.17,24,#,,,,,#,
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Metoprolol Succinate,Metoprolol Succinate,288,604.1,18071,2030.4,85,,276,574.4,1931.78,17181,#,
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Metoprolol Tartrate,Metoprolol Tartrate,59,131,3929,280.48,20,,45,101,195.22,3029,#,
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Midodrine Hcl,Midodrine Hcl,12,22.6,678,127.5,,*,,,,,*,
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Nitroglycerin,Nitroglycerin,34,47.9,1136,464.83,15,,23,36.9,318.65,911,#,
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Potassium Chloride,Potassium Chloride,23,51,1530,229.87,,#,,,,,*,
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Propranolol Hcl,Propranolol Hcl,12,12,360,24.4,,,12,12,24.4,360,*,
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Ranolazine Er,Ranolazine,12,18,485,333.25,,,12,18,333.25,485,*,
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Repatha Sureclick,Evolocumab,13,13,366,6792.37,,,13,13,6792.37,366,*,
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Rosuvastatin Calcium,Rosuvastatin Calcium,32,47.2,1415,250.41,,,32,47.2,250.41,1415,*,
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Simvastatin,Simvastatin,11,33,990,94.57,,,11,33,94.57,990,*,
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Spironolactone,Spironolactone,32,53,1590,146.76,,#,,,,,*,
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Torsemide,Torsemide,15,23,650,209.5,,,15,23,209.5,650,*,
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Valsartan,Valsartan,14,28,840,386.38,,,14,28,386.38,840,*,
+1003131533,Kapasi,Neel,Victorville,CA,06,Cardiology,Claim-Specialty,Xarelto,Rivaroxaban,94,154,4595,84203.93,25,#,,,,,#,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Amiodarone Hcl,Amiodarone Hcl,43,73.4,2182,717.77,11,,43,73.4,717.77,2182,,11
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Amlodipine Besylate,Amlodipine Besylate,747,1665.8,49975,5113.17,195,#,,,,,#,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Amlodipine-Olmesartan,Amlodipine Bes/Olmesartan Med,12,36,1080,1302.43,,,12,36,1302.43,1080,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Atenolol,Atenolol,59,143,4290,540.22,17,,59,143,540.22,4290,,17
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Atorvastatin Calcium,Atorvastatin Calcium,569,1448.3,43421,6245.48,161,#,,,,,#,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Benazepril Hcl,Benazepril Hcl,19,57,1710,180.88,,,19,57,180.88,1710,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Benicar,Olmesartan Medoxomil,17,17,510,4878.19,,,17,17,4878.19,510,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Bisoprolol Fumarate,Bisoprolol Fumarate,18,44,1320,380.56,,,18,44,380.56,1320,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Brilinta,Ticagrelor,17,43,1290,18058.81,,#,,,,,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Bumetanide,Bumetanide,25,37,1110,1011.53,,,25,37,1011.53,1110,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Bystolic,Nebivolol Hcl,15,22,660,3432.7,,,15,22,3432.7,660,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Candesartan Cilexetil,Candesartan Cilexetil,28,54,1620,2305.34,,,28,54,2305.34,1620,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Carvedilol,Carvedilol,256,562.2,16835,1894.55,63,,238,528.2,1822.2,15815,#,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Chlorthalidone,Chlorthalidone,23,47.5,1424,324.25,,,23,47.5,324.25,1424,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Cilostazol,Cilostazol,17,23,690,146.63,,,17,23,146.63,690,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Clonidine,Clonidine,18,27,784,2061.23,,,18,27,2061.23,784,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Clonidine Hcl,Clonidine Hcl,31,58,1587,240.12,,#,,,,,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Clopidogrel,Clopidogrel Bisulfate,104,269.3,8022,938.34,27,#,,,,,#,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Colchicine,Colchicine,19,27,790,478.34,,,19,27,478.34,790,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Digoxin,Digoxin,12,36,1080,2382.82,,,12,36,2382.82,1080,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Diltiazem 24hr Er (Cd),Diltiazem Hcl,12,34,1020,315.92,,,12,34,315.92,1020,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Diltiazem Hcl,Diltiazem Hcl,55,130,3900,933.21,15,,55,130,933.21,3900,,15
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Doxazosin Mesylate,Doxazosin Mesylate,119,230.4,6912,1179.11,22,,119,230.4,1179.11,6912,,22
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Edarbi,Azilsartan Medoxomil,53,59,1770,19642.02,,,53,59,19642.02,1770,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Edarbyclor,Azilsartan Med/Chlorthalidone,26,38,1140,7311.18,,,26,38,7311.18,1140,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Eliquis,Apixaban,469,890.8,26680,515151.04,117,#,,,,,#,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Entresto,Sacubitril/Valsartan,117,221.5,6570,138911.9,24,,90,182.5,113733.54,5445,#,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Eplerenone,Eplerenone,56,91,2724,2016.11,12,,56,91,2016.11,2724,,12
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Ezetimibe,Ezetimibe,97,234.5,7034,2798.8,29,#,,,,,#,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Farxiga,Dapagliflozin Propanediol,12,14,420,8072.57,,,12,14,8072.57,420,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Fenofibrate,Fenofibrate Nanocrystallized,11,33,990,340.38,,,11,33,340.38,990,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Flecainide Acetate,Flecainide Acetate,31,43,1290,652.2,,,31,43,652.2,1290,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Furosemide,Furosemide,277,567.3,16544,1103.8,87,#,,,,,#,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Hydralazine Hcl,Hydralazine Hcl,83,141,4210,758.96,23,,83,141,758.96,4210,,23
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Hydrochlorothiazide,Hydrochlorothiazide,160,347.7,10432,506.31,41,#,,,,,#,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Icosapent Ethyl,Icosapent Ethyl,26,26,780,3994.81,,,26,26,3994.81,780,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Irbesartan,Irbesartan,32,86,2580,425.82,,,32,86,425.82,2580,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Irbesartan-Hydrochlorothiazide,Irbesartan/Hydrochlorothiazide,15,21,630,285.1,,,15,21,285.1,630,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Isosorbide Mononitrate Er,Isosorbide Mononitrate,80,144,4320,649.82,16,#,,,,,#,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Jardiance,Empagliflozin,107,181.5,5403,100867.18,27,,91,159.5,88286.61,4743,#,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Klor-Con 10,Potassium Chloride,14,34.3,993,126.15,,,14,34.3,126.15,993,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Labetalol Hcl,Labetalol Hcl,12,18,540,184.46,,,12,18,184.46,540,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Lisinopril,Lisinopril,103,258,7741,660.75,34,#,,,,,#,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Livalo,Pitavastatin Calcium,11,21,630,7083.63,,,11,21,7083.63,630,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Losartan Potassium,Losartan Potassium,660,1610.4,48289,6613.81,173,,648,1584.4,6554.55,47509,#,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Losartan-Hydrochlorothiazide,Losartan/Hydrochlorothiazide,19,29,860,81.15,,,19,29,81.15,860,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Metformin Hcl,Metformin Hcl,60,137.5,4125,350.95,14,#,,,,,#,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Metformin Hcl Er,Metformin Hcl,20,58.5,1755,167.34,,,20,58.5,167.34,1755,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Metoprolol Succinate,Metoprolol Succinate,316,689.2,20676,3950.43,91,,298,671,3721.27,20130,#,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Metoprolol Tartrate,Metoprolol Tartrate,122,237.5,7020,545.58,38,,111,226.5,474.8,6690,#,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Multaq,Dronedarone Hcl,17,22.5,650,17035.52,,,17,22.5,17035.52,650,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Nebivolol Hcl,Nebivolol Hcl,105,190,5676,7571.91,22,,105,190,7571.91,5676,,22
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Nifedipine Er,Nifedipine,81,181.7,5451,2296.96,23,,81,181.7,2296.96,5451,,23
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Nitroglycerin,Nitroglycerin,38,46.3,1293,350.21,16,,38,46.3,350.21,1293,,16
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Olmesartan Medoxomil,Olmesartan Medoxomil,129,245,7325,1803.24,28,,129,245,1803.24,7325,,28
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Olmesartan-Hydrochlorothiazide,Olmesartan/Hydrochlorothiazide,22,32,960,598.99,,,22,32,598.99,960,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Ozempic,Semaglutide,24,25.8,730,21684.2,,,24,25.8,21684.2,730,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Pitavastatin Calcium,Pitavastatin Calcium,27,65,1950,5721.93,,,27,65,5721.93,1950,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Potassium Chloride,Potassium Chloride,159,269.3,7780,1350.85,49,,159,269.3,1350.85,7780,,49
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Praluent Pen,Alirocumab,78,120.4,3526,61074.83,19,#,,,,,#,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Pravastatin Sodium,Pravastatin Sodium,261,557,16683,3318.41,68,,243,535,3269.3,16023,#,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Propranolol Hcl,Propranolol Hcl,38,50.5,1500,251.4,,,38,50.5,251.4,1500,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Ranolazine Er,Ranolazine,49,79.5,2385,4462.81,12,,49,79.5,4462.81,2385,,12
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Repatha Sureclick,Evolocumab,263,424.6,12419,236482.62,48,,251,410.8,228750.59,12027,#,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Repatha Syringe,Evolocumab,20,31.4,924,16474.67,,,20,31.4,16474.67,924,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Rosuvastatin Calcium,Rosuvastatin Calcium,705,1717.9,51538,13026.21,211,,693,1681.9,12609.09,50458,#,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Simvastatin,Simvastatin,57,135,4050,509.27,14,,57,135,509.27,4050,,14
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Spironolactone,Spironolactone,62,150,4486,634.08,20,,50,138,618.37,4126,#,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Telmisartan,Telmisartan,15,25,750,223.48,,,15,25,223.48,750,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Torsemide,Torsemide,38,54,1545,457.42,,,38,54,457.42,1545,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Valsartan,Valsartan,59,161.5,4825,1960.21,19,,59,161.5,1960.21,4825,,19
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Valsartan-Hydrochlorothiazide,Valsartan/Hydrochlorothiazide,14,42,1260,798.27,,,14,42,798.27,1260,*,
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Vascepa,Icosapent Ethyl,40,84,2520,29217.41,11,,40,84,29217.41,2520,,11
+1003195686,Arbit,Boris,Burbank,CA,06,Cardiology,Claim-Specialty,Xarelto,Rivaroxaban,20,46,1380,23023.52,,,20,46,23023.52,1380,*,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Amiodarone Hcl,Amiodarone Hcl,16,30.3,893,132.94,,,16,30.3,132.94,893,*,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Amlodipine Besylate,Amlodipine Besylate,361,808.5,24255,2585.63,94,#,,,,,#,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Amlodipine Besylate-Benazepril,Amlodipine Besylate/Benazepril,15,30,900,407.13,,,15,30,407.13,900,*,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Atenolol,Atenolol,15,45,1350,107.1,,,15,45,107.1,1350,*,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Atorvastatin Calcium,Atorvastatin Calcium,249,616,18434,2262.42,79,,238,585,2153.04,17504,#,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Benazepril Hcl,Benazepril Hcl,12,24.3,730,109.26,,,12,24.3,109.26,730,*,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Bisoprolol Fumarate,Bisoprolol Fumarate,21,39,1170,496.48,,,21,39,496.48,1170,*,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Brilinta,Ticagrelor,11,19,570,8584.94,,,11,19,8584.94,570,*,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Bumetanide,Bumetanide,49,97.1,2897,2121.05,13,,49,97.1,2121.05,2897,,13
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Carvedilol,Carvedilol,118,269.1,8057,807.15,30,#,,,,,#,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Clopidogrel,Clopidogrel Bisulfate,50,116,3469,368.83,18,,50,116,368.83,3469,,18
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Dapagliflozin,Dapagliflozin Propanediol,15,21,625,10365.47,,*,,,,,*,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Diltiazem 24hr Er (Cd),Diltiazem Hcl,14,42,1260,606.03,,,14,42,606.03,1260,*,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Eliquis,Apixaban,262,525,15692,296994.16,77,,262,525,296994.16,15692,,77
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Entresto,Sacubitril/Valsartan,289,553.6,16546,332384.15,77,,257,516.6,311153.79,15436,#,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Ezetimibe,Ezetimibe,75,160,4794,1477.11,21,#,,,,,#,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Farxiga,Dapagliflozin Propanediol,165,295,8807,166008.63,35,,148,278,156838.63,8322,#,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Flecainide Acetate,Flecainide Acetate,11,25.3,760,299.79,,,11,25.3,299.79,760,*,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Furosemide,Furosemide,214,431.9,12926,1187.15,60,,194,407.9,1148.59,12206,#,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Hydralazine Hcl,Hydralazine Hcl,19,31,930,118.05,,#,,,,,*,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Hydrochlorothiazide,Hydrochlorothiazide,88,197,5909,355.53,25,,88,197,355.53,5909,,25
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Isosorbide Mononitrate Er,Isosorbide Mononitrate,59,137,4098,453.47,14,#,,,,,#,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Jardiance,Empagliflozin,63,131.8,3930,71584.04,18,,63,131.8,71584.04,3930,,18
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Lisinopril,Lisinopril,126,328,9840,1080.51,39,#,,,,,#,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Losartan Potassium,Losartan Potassium,147,357,10688,928.33,44,#,,,,,#,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Metoprolol Succinate,Metoprolol Succinate,344,881,26246,6273.48,102,,326,849,5200.46,25286,#,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Metoprolol Tartrate,Metoprolol Tartrate,237,529.1,15608,1669.09,72,,226,516.1,1631.56,15276,#,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Nitroglycerin,Nitroglycerin,21,31.6,928,297.53,,#,,,,,*,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Ozempic,Semaglutide,16,19,544,14891.8,,,16,19,14891.8,544,*,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Potassium Chloride,Potassium Chloride,19,53,1590,414.18,,,19,53,414.18,1590,*,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Ranolazine Er,Ranolazine,15,37,1110,1676.52,,,15,37,1676.52,1110,*,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Repatha Sureclick,Evolocumab,29,47,1372,27779.87,,,29,47,27779.87,1372,*,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Rosuvastatin Calcium,Rosuvastatin Calcium,269,712.4,21364,6827.97,80,,255,672.4,6490.68,20169,#,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Simvastatin,Simvastatin,13,39.3,1180,95.2,,,13,39.3,95.2,1180,*,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Spironolactone,Spironolactone,110,278.3,8350,866.28,34,#,,,,,#,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Valsartan,Valsartan,12,30,900,232.87,,,12,30,232.87,900,*,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Warfarin Sodium,Warfarin Sodium,16,40,1200,262.49,,,16,40,262.49,1200,*,
+1003243262,Nishimura-Kaminski,Marin,San Diego,CA,06,Cardiology,Claim-Specialty,Xarelto,Rivaroxaban,139,262.5,7860,144822.95,36,,139,262.5,144822.95,7860,,36
+1003558420,Halais Frangieh,Antonio,Orange,CA,06,Cardiology,Claim-Specialty,Brilinta,Ticagrelor,13,21,622,9070.49,,*,,,,,*,
+1003558420,Halais Frangieh,Antonio,Orange,CA,06,Cardiology,Claim-Specialty,Metoprolol Succinate,Metoprolol Succinate,14,20,600,97.59,,*,,,,,*,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Amiodarone Hcl,Amiodarone Hcl,45,87.8,2591,506.71,18,#,,,,,#,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Amlodipine Besylate,Amlodipine Besylate,203,577.5,17311,1223.05,81,#,,,,,#,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Atenolol,Atenolol,96,278.2,8345,741.42,32,,96,278.2,741.42,8345,,32
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Atorvastatin Calcium,Atorvastatin Calcium,279,795.1,23852,3599.82,97,,279,795.1,3599.82,23852,,97
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Benazepril Hcl,Benazepril Hcl,12,34,1020,38.04,,*,,,,,*,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Bumetanide,Bumetanide,13,31,915,450.68,,,13,31,450.68,915,*,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Carvedilol,Carvedilol,232,631.8,18912,2674.24,77,#,,,,,#,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Clonidine Hcl,Clonidine Hcl,19,41,1230,162.54,,,19,41,162.54,1230,*,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Clopidogrel,Clopidogrel Bisulfate,28,73.5,2206,607.97,16,#,,,,,#,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Digoxin,Digoxin,68,136.3,4062,2180.5,19,,68,136.3,2180.5,4062,,19
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Diltiazem 24hr Er,Diltiazem Hcl,13,37,1110,142.13,,,13,37,142.13,1110,*,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Diltiazem 24hr Er (Cd),Diltiazem Hcl,90,237,7110,4221.54,34,#,,,,,#,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Diltiazem Hcl,Diltiazem Hcl,11,31,930,383.62,,,11,31,383.62,930,*,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Doxazosin Mesylate,Doxazosin Mesylate,46,126,3780,808.48,21,,46,126,808.48,3780,,21
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Droxidopa,Droxidopa,30,38,1140,6053.06,,,30,38,6053.06,1140,*,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Eliquis,Apixaban,439,1002.7,30028,574782.51,139,,439,1002.7,574782.51,30028,,139
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Enalapril Maleate,Enalapril Maleate,13,39,1170,475.04,,,13,39,475.04,1170,*,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Entresto,Sacubitril/Valsartan,59,147.3,4420,93333.51,22,,59,147.3,93333.51,4420,,22
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Ezetimibe,Ezetimibe,43,115,3450,1247.81,20,,43,115,1247.81,3450,,20
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Farxiga,Dapagliflozin Propanediol,96,164,4920,90587.32,25,,96,164,90587.32,4920,,25
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Flecainide Acetate,Flecainide Acetate,110,241.3,7210,4884.1,41,#,,,,,#,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Fludrocortisone Acetate,Fludrocortisone Acetate,17,39,1170,325.71,,#,,,,,*,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Furosemide,Furosemide,219,493.3,14524,1463.93,88,,219,493.3,1463.93,14524,,88
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Hydralazine Hcl,Hydralazine Hcl,31,68.5,2035,214.05,11,#,,,,,*,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Hydrochlorothiazide,Hydrochlorothiazide,77,217.8,6535,297.53,32,,77,217.8,297.53,6535,,32
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Isosorbide Mononitrate Er,Isosorbide Mononitrate,52,148.2,4445,1080.31,21,#,,,,,#,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Jardiance,Empagliflozin,57,113,3390,66121.03,26,,57,113,66121.03,3390,,26
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Klor-Con 10,Potassium Chloride,18,48,1440,180.24,,,18,48,180.24,1440,*,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Labetalol Hcl,Labetalol Hcl,23,59.4,1757,1297.05,,,23,59.4,1297.05,1757,*,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Lisinopril,Lisinopril,181,485.8,14573,1418.12,65,,181,485.8,1418.12,14573,,65
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Losartan Potassium,Losartan Potassium,131,391.7,11750,1391.84,51,#,,,,,#,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Losartan-Hydrochlorothiazide,Losartan/Hydrochlorothiazide,11,31,930,229.93,,*,,,,,*,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Metoprolol Succinate,Metoprolol Succinate,508,1327.1,39737,6828.67,175,,493,1289.1,6678.34,38597,#,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Metoprolol Tartrate,Metoprolol Tartrate,127,297.8,8803,789.86,53,#,,,,,#,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Midodrine Hcl,Midodrine Hcl,47,110,3250,3798.19,21,#,,,,,#,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Multaq,Dronedarone Hcl,36,66,1980,51154.92,17,,36,66,51154.92,1980,,17
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Nebivolol Hcl,Nebivolol Hcl,49,107,3210,2354.29,17,,49,107,2354.29,3210,,17
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Nexletol,Bempedoic Acid,12,12,360,4711.06,,,12,12,4711.06,360,*,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Nifedipine Er,Nifedipine,16,46,1380,669.51,,,16,46,669.51,1380,*,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Nitroglycerin,Nitroglycerin,26,37.3,1083,424.18,17,#,,,,,#,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Olmesartan Medoxomil,Olmesartan Medoxomil,36,98,2940,592.38,14,,36,98,592.38,2940,,14
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Pantoprazole Sodium,Pantoprazole Sodium,22,60,1800,326.57,,,22,60,326.57,1800,*,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Potassium Chloride,Potassium Chloride,72,192.3,5749,2109.47,33,,72,192.3,2109.47,5749,,33
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Praluent Pen,Alirocumab,16,41.2,1232,21423.14,,#,,,,,*,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Pravastatin Sodium,Pravastatin Sodium,100,242.2,7266,1500.47,38,#,,,,,#,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Propafenone Hcl Er,Propafenone Hcl,12,36,1080,2016.12,,,12,36,2016.12,1080,*,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Propranolol Hcl,Propranolol Hcl,40,81,2331,558.46,16,#,,,,,#,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Propranolol Hcl Er,Propranolol Hcl,31,87,2610,1784.41,11,,31,87,1784.41,2610,,11
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Ranolazine Er,Ranolazine,32,84,2520,4252.4,12,,32,84,4252.4,2520,,12
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Repatha Sureclick,Evolocumab,105,202.8,5985,111792.57,28,#,,,,,#,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Repatha Syringe,Evolocumab,12,20.3,610,9055.64,,,12,20.3,9055.64,610,*,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Rosuvastatin Calcium,Rosuvastatin Calcium,485,1374.9,41213,8138.66,182,#,,,,,#,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Simvastatin,Simvastatin,31,93,2790,191.02,13,,31,93,191.02,2790,,13
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Spironolactone,Spironolactone,61,174.3,5220,794.21,29,,61,174.3,794.21,5220,,29
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Telmisartan,Telmisartan,12,36,1080,211.53,,,12,36,211.53,1080,*,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Torsemide,Torsemide,14,34,1020,334.21,,,14,34,334.21,1020,*,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Triamterene-Hydrochlorothiazid,Triamterene/Hydrochlorothiazid,13,34.8,1020,168.67,,,13,34.8,168.67,1020,*,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Valsartan,Valsartan,21,63,1890,325.69,,,21,63,325.69,1890,*,
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Warfarin Sodium,Warfarin Sodium,72,199,5851,1618.85,23,,72,199,1618.85,5851,,23
+1003811746,Tseng,Hennessey,Walnut Creek,CA,06,Cardiology,Claim-Specialty,Xarelto,Rivaroxaban,126,258,7717,141269.14,33,,126,258,141269.14,7717,,33
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Allopurinol,Allopurinol,13,39,1170,108.7,,,13,39,108.7,1170,*,
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Alprazolam,Alprazolam,12,12,316,30,,,12,12,30,316,*,
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Amiodarone Hcl,Amiodarone Hcl,32,72,2160,875.1,,,32,72,875.1,2160,*,
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Amlodipine Besylate,Amlodipine Besylate,120,299.2,8976,908.98,30,,120,299.2,908.98,8976,,30
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Atenolol,Atenolol,28,58,1714,659.69,,,28,58,659.69,1714,*,
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Atorvastatin Calcium,Atorvastatin Calcium,113,292.5,8749,1059.71,31,#,,,,,#,
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Carvedilol,Carvedilol,31,93,2790,540.62,11,,31,93,540.62,2790,,11
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Clopidogrel,Clopidogrel Bisulfate,33,95,2850,552.58,12,#,,,,,#,
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Digoxin,Digoxin,29,59,1770,643.31,,,29,59,643.31,1770,*,
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Diltiazem 24hr Er (Cd),Diltiazem Hcl,27,41,1230,509.7,,,27,41,509.7,1230,*,
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Eliquis,Apixaban,167,266,7969,152049.38,27,,167,266,152049.38,7969,,27
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Entresto,Sacubitril/Valsartan,31,69,2070,45724.61,,,31,69,45724.61,2070,*,
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Ezetimibe,Ezetimibe,18,54,1620,454.1,,,18,54,454.1,1620,*,
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Finasteride,Finasteride,27,57,1710,379.06,,,27,57,379.06,1710,*,
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Flecainide Acetate,Flecainide Acetate,18,32,938,166.32,,,18,32,166.32,938,*,
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Furosemide,Furosemide,53,134.2,4027,590.59,17,,53,134.2,590.59,4027,,17
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Gabapentin,Gabapentin,12,36,1080,138.42,,,12,36,138.42,1080,*,
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Hydralazine Hcl,Hydralazine Hcl,13,33,975,283.53,,,13,33,283.53,975,*,
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Irbesartan,Irbesartan,12,36,1080,425.21,,,12,36,425.21,1080,*,
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Jardiance,Empagliflozin,35,37,1110,22072.47,,,35,37,22072.47,1110,*,
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Lamotrigine,Lamotrigine,13,13,390,40.12,,,13,13,40.12,390,*,
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Levothyroxine Sodium,Levothyroxine Sodium,21,63,1890,404.88,,,21,63,404.88,1890,*,
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Lisinopril,Lisinopril,35,103,3090,332.75,13,,35,103,332.75,3090,,13
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Lorazepam,Lorazepam,20,35,1035,203.46,,,20,35,203.46,1035,*,
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Losartan Potassium,Losartan Potassium,71,163,4890,750.58,21,,71,163,750.58,4890,,21
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Metolazone,Metolazone,12,18,540,253.36,,,12,18,253.36,540,*,
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Metoprolol Succinate,Metoprolol Succinate,126,284,8377,2119.13,31,,126,284,2119.13,8377,,31
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Metoprolol Tartrate,Metoprolol Tartrate,54,148,4380,405.38,17,,54,148,405.38,4380,,17
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Olmesartan Medoxomil,Olmesartan Medoxomil,15,37,1110,268.01,,,15,37,268.01,1110,*,
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Potassium Chloride,Potassium Chloride,36,70.9,2107,626.51,14,,36,70.9,626.51,2107,,14
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Pravastatin Sodium,Pravastatin Sodium,20,60,1800,186.1,,,20,60,186.1,1800,*,
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Propafenone Hcl,Propafenone Hcl,12,16,480,319.28,,,12,16,319.28,480,*,
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Ramipril,Ramipril,11,33,990,199.18,,,11,33,199.18,990,*,
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Repatha Sureclick,Evolocumab,30,41.6,1204,22821.17,,,30,41.6,22821.17,1204,*,
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Rosuvastatin Calcium,Rosuvastatin Calcium,91,220.7,6622,1915.62,22,,91,220.7,1915.62,6622,,22
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Spironolactone,Spironolactone,22,56,1680,330.12,,,22,56,330.12,1680,*,
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Synthroid,Levothyroxine Sodium,15,44,1320,1565.46,,,15,44,1565.46,1320,*,
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Tamsulosin Hcl,Tamsulosin Hcl,13,39,1170,356.2,,,13,39,356.2,1170,*,
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Verquvo,Vericiguat,12,12,360,15920.41,,,12,12,15920.41,360,*,
+1003836651,Wohlgelernter,Daniel,Santa Monica,CA,06,Cardiology,Claim-Specialty,Xarelto,Rivaroxaban,60,90,2700,46511.33,,,60,90,46511.33,2700,*,
+1003839838,Agarwal,Ashok,Hemet,CA,06,Cardiology,Claim-Specialty,Amiodarone Hcl,Amiodarone Hcl,26,30,900,271.32,,,26,30,271.32,900,*,
+1003839838,Agarwal,Ashok,Hemet,CA,06,Cardiology,Claim-Specialty,Amlodipine Besylate,Amlodipine Besylate,57,123,3690,364.15,28,#,,,,,#,
+1003839838,Agarwal,Ashok,Hemet,CA,06,Cardiology,Claim-Specialty,Atorvastatin Calcium,Atorvastatin Calcium,34,64,1920,258.52,12,#,,,,,#,
+1003839838,Agarwal,Ashok,Hemet,CA,06,Cardiology,Claim-Specialty,Carvedilol,Carvedilol,75,151,4530,665.63,19,#,,,,,#,
+1003839838,Agarwal,Ashok,Hemet,CA,06,Cardiology,Claim-Specialty,Clopidogrel,Clopidogrel Bisulfate,44,87,2610,585.6,12,,44,87,585.6,2610,,12
+1003839838,Agarwal,Ashok,Hemet,CA,06,Cardiology,Claim-Specialty,Digoxin,Digoxin,37,73.1,2192,697.42,12,,37,73.1,697.42,2192,,12
+1003839838,Agarwal,Ashok,Hemet,CA,06,Cardiology,Claim-Specialty,Eliquis,Apixaban,71,115,3435,64403.09,16,,71,115,64403.09,3435,,16
+1003839838,Agarwal,Ashok,Hemet,CA,06,Cardiology,Claim-Specialty,Entresto,Sacubitril/Valsartan,25,29,870,18957.31,,#,,,,,*,
+1003839838,Agarwal,Ashok,Hemet,CA,06,Cardiology,Claim-Specialty,Furosemide,Furosemide,24,31,930,62.32,,,24,31,62.32,930,*,
+1003839838,Agarwal,Ashok,Hemet,CA,06,Cardiology,Claim-Specialty,Losartan Potassium,Losartan Potassium,54,124,3720,667.75,19,,54,124,667.75,3720,,19
+1003839838,Agarwal,Ashok,Hemet,CA,06,Cardiology,Claim-Specialty,Metoprolol Succinate,Metoprolol Succinate,88,208,6240,1358.55,28,#,,,,,#,
+1003839838,Agarwal,Ashok,Hemet,CA,06,Cardiology,Claim-Specialty,Nitroglycerin,Nitroglycerin,17,17,401,127.17,,#,,,,,*,
+1003839838,Agarwal,Ashok,Hemet,CA,06,Cardiology,Claim-Specialty,Ranolazine Er,Ranolazine,11,19,570,292.25,,,11,19,292.25,570,*,
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Amiodarone Hcl,Amiodarone Hcl,26,72.3,2170,309.11,11,,26,72.3,309.11,2170,,11
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Amlodipine Besylate,Amlodipine Besylate,77,212,6360,400.59,25,,77,212,400.59,6360,,25
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Atenolol,Atenolol,54,135,4050,293.78,13,,54,135,293.78,4050,,13
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Atorvastatin Calcium,Atorvastatin Calcium,133,359,10770,1111.49,33,,133,359,1111.49,10770,,33
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Carvedilol,Carvedilol,60,170,5100,732.07,18,,60,170,732.07,5100,,18
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Chlorthalidone,Chlorthalidone,26,58.9,1767,307.75,,,26,58.9,307.75,1767,*,
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Clopidogrel,Clopidogrel Bisulfate,49,122,3660,710.15,12,,49,122,710.15,3660,,12
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Eliquis,Apixaban,95,167,5010,96419.51,19,,95,167,96419.51,5010,,19
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Enalapril Maleate,Enalapril Maleate,12,12,360,403.72,,,12,12,403.72,360,*,
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Ezetimibe,Ezetimibe,58,144,4320,1298.51,13,,58,144,1298.51,4320,,13
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Furosemide,Furosemide,20,40,1200,87.73,,,20,40,87.73,1200,*,
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Hydrochlorothiazide,Hydrochlorothiazide,41,75.9,2278,103.49,13,,41,75.9,103.49,2278,,13
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Irbesartan,Irbesartan,21,35,1050,250.62,,,21,35,250.62,1050,*,
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Klor-Con 10,Potassium Chloride,28,82,2460,698.78,,#,,,,,*,
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Labetalol Hcl,Labetalol Hcl,28,41.5,1000,370.53,12,,28,41.5,370.53,1000,,12
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Lisinopril,Lisinopril,26,78,2340,296.84,,,26,78,296.84,2340,*,
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Losartan Potassium,Losartan Potassium,34,98,2940,324.99,11,,34,98,324.99,2940,,11
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Losartan-Hydrochlorothiazide,Losartan/Hydrochlorothiazide,23,49,1470,138.42,,,23,49,138.42,1470,*,
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Metoprolol Succinate,Metoprolol Succinate,52,139.3,4170,883.64,17,,52,139.3,883.64,4170,,17
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Metoprolol Tartrate,Metoprolol Tartrate,50,108,3240,121.35,13,#,,,,,#,
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Nebivolol Hcl,Nebivolol Hcl,47,105,3150,2220.75,11,,47,105,2220.75,3150,,11
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Nexlizet,Bempedoic Acid/Ezetimibe,11,19,570,7111.86,,,11,19,7111.86,570,*,
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Nifedipine Er,Nifedipine,59,143,4290,1970.79,17,,59,143,1970.79,4290,,17
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Olmesartan Medoxomil,Olmesartan Medoxomil,15,45,1350,346.17,,,15,45,346.17,1350,*,
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Potassium Chloride,Potassium Chloride,121,278,8325,2719.92,34,,121,278,2719.92,8325,,34
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Pravastatin Sodium,Pravastatin Sodium,27,71,2130,146.61,,,27,71,146.61,2130,*,
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Rosuvastatin Calcium,Rosuvastatin Calcium,89,229,6870,975.14,23,,89,229,975.14,6870,,23
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Simvastatin,Simvastatin,12,36,1080,115.01,,,12,36,115.01,1080,*,
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Spironolactone,Spironolactone,26,78,2340,215.04,,#,,,,,*,
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Telmisartan,Telmisartan,38,114,3420,920.13,11,,38,114,920.13,3420,,11
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Torsemide,Torsemide,52,124,3705,907.07,18,,52,124,907.07,3705,,18
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Warfarin Sodium,Warfarin Sodium,32,75.4,2262,218.62,,,32,75.4,218.62,2262,*,
+1003876657,Patadia,Bipin,Upland,CA,06,Cardiology,Claim-Specialty,Xarelto,Rivaroxaban,14,24,720,12788.53,,,14,24,12788.53,720,*,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Allopurinol,Allopurinol,104,287.6,8603,689.78,31,,104,287.6,689.78,8603,,31
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Amlodipine Besylate,Amlodipine Besylate,233,684.3,20493,1541.19,76,#,,,,,#,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Amoxicillin,Amoxicillin,37,38.5,269,78.25,29,#,,,,,#,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Atorvastatin Calcium,Atorvastatin Calcium,414,1215,36402,4593.4,121,,414,1215,4593.4,36402,,121
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Carvedilol,Carvedilol,110,310.1,9284,1105.27,31,,110,310.1,1105.27,9284,,31
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Clopidogrel,Clopidogrel Bisulfate,103,309,9270,1165.33,39,,103,309,1165.33,9270,,39
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Colesevelam Hcl,Colesevelam Hcl,49,119,3556,11393.33,12,,49,119,11393.33,3556,,12
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Colestipol Hcl,Colestipol Hcl,22,62,1860,3094.26,,,22,62,3094.26,1860,*,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Diltiazem 24hr Er,Diltiazem Hcl,19,57,1710,912.79,,,19,57,912.79,1710,*,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Diltiazem 24hr Er (Cd),Diltiazem Hcl,30,86.3,2563,900.43,,,30,86.3,900.43,2563,*,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Edarbi,Azilsartan Medoxomil,40,72,2160,16703.09,,,40,72,16703.09,2160,*,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Edarbyclor,Azilsartan Med/Chlorthalidone,27,65,1950,15108.19,,,27,65,15108.19,1950,*,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Eliquis,Apixaban,64,127.5,3825,64469.93,16,#,,,,,#,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Entresto,Sacubitril/Valsartan,65,147.5,4425,91906.63,15,,65,147.5,91906.63,4425,,15
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Ezetimibe,Ezetimibe,932,2757.8,82657,33892.35,294,#,,,,,#,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Farxiga,Dapagliflozin Propanediol,29,77,2310,37404.78,,,29,77,37404.78,2310,*,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Fenofibrate,Fenofibrate,76,220.4,6599,2613.93,24,#,,,,,#,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Fenofibrate,Fenofibrate Nanocrystallized,11,33,990,330.97,,,11,33,330.97,990,*,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Fenofibric Acid,Fenofibric Acid (Choline),12,36,1080,473.13,,,12,36,473.13,1080,*,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Furosemide,Furosemide,41,112.2,3366,168.23,13,#,,,,,#,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Hydrochlorothiazide,Hydrochlorothiazide,24,71.6,2147,98.46,,,24,71.6,98.46,2147,*,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Icosapent Ethyl,Icosapent Ethyl,332,852.7,25555,136221.6,119,#,,,,,#,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Irbesartan,Irbesartan,22,65,1950,298.3,,,22,65,298.3,1950,*,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Irbesartan-Hydrochlorothiazide,Irbesartan/Hydrochlorothiazide,13,39,1170,276.34,,,13,39,276.34,1170,*,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Isosorbide Mononitrate Er,Isosorbide Mononitrate,13,39,1170,199.77,,,13,39,199.77,1170,*,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Levothyroxine Sodium,Levothyroxine Sodium,12,36,1080,170.25,,,12,36,170.25,1080,*,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Lisinopril,Lisinopril,35,103.5,3105,206.7,11,#,,,,,*,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Livalo,Pitavastatin Calcium,26,77,2310,23985.17,,,26,77,23985.17,2310,*,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Losartan Potassium,Losartan Potassium,63,186.4,5593,959.12,20,,63,186.4,959.12,5593,,20
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Losartan-Hydrochlorothiazide,Losartan/Hydrochlorothiazide,19,57,1710,297.36,,,19,57,297.36,1710,*,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Metoprolol Succinate,Metoprolol Succinate,393,1121.8,33653,6438.76,116,,378,1088.8,6241.83,32663,#,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Metoprolol Tartrate,Metoprolol Tartrate,28,84,2520,192.71,,,28,84,192.71,2520,*,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Nebivolol Hcl,Nebivolol Hcl,12,34,1020,629.24,,,12,34,629.24,1020,*,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Nexlizet,Bempedoic Acid/Ezetimibe,177,389,11670,153784.79,51,#,,,,,#,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Niacin Er,Niacin,41,119,3556,5679,18,,41,119,5679,3556,,18
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Nitroglycerin,Nitroglycerin,23,25.1,536,215.73,15,,23,25.1,215.73,536,,15
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Olmesartan Medoxomil,Olmesartan Medoxomil,96,288,8640,2302.06,33,#,,,,,#,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Olmesartan-Hydrochlorothiazide,Olmesartan/Hydrochlorothiazide,37,111,3330,1821.12,11,,37,111,1821.12,3330,,11
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Pioglitazone Hcl,Pioglitazone Hcl,40,120.7,3620,525.49,12,,40,120.7,525.49,3620,,12
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Pitavastatin Calcium,Pitavastatin Calcium,85,212.8,6385,34898.47,22,,85,212.8,34898.47,6385,,22
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Potassium Chloride,Potassium Chloride,33,97.7,2925,2488.96,12,,33,97.7,2488.96,2925,,12
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Praluent Pen,Alirocumab,18,32.4,952,16923.48,,,18,32.4,16923.48,952,*,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Pravastatin Sodium,Pravastatin Sodium,159,474.3,14220,2041.26,54,#,,,,,#,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Ranolazine Er,Ranolazine,67,163.9,4917,10924.3,20,,67,163.9,10924.3,4917,,20
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Repatha Sureclick,Evolocumab,511,1109.9,32977,628613.94,116,#,,,,,#,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Repatha Syringe,Evolocumab,13,31.2,930,18102.69,,,13,31.2,18102.69,930,*,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Rosuvastatin Calcium,Rosuvastatin Calcium,251,745.3,22321,3569.62,76,#,,,,,#,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Spironolactone,Spironolactone,18,54,1620,281.53,,,18,54,281.53,1620,*,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Valsartan,Valsartan,107,319.8,9595,4342.2,36,#,,,,,#,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Valsartan-Hydrochlorothiazide,Valsartan/Hydrochlorothiazide,40,119.7,3592,1846.21,13,,40,119.7,1846.21,3592,,13
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Vascepa,Icosapent Ethyl,429,988.9,29645,341499.37,128,#,,,,,#,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Warfarin Sodium,Warfarin Sodium,13,39,1170,234.75,,,13,39,234.75,1170,*,
+1003908591,Nelson,John,Fresno,CA,06,Cardiology,Claim-Specialty,Xarelto,Rivaroxaban,44,91,2710,49465.27,,,44,91,49465.27,2710,*,
+1003910456,Scott,Emily,San Diego,CA,06,Cardiology,Claim-Specialty,Amiodarone Hcl,Amiodarone Hcl,19,37,1110,111.68,,,19,37,111.68,1110,*,
+1003910456,Scott,Emily,San Diego,CA,06,Cardiology,Claim-Specialty,Amlodipine Besylate,Amlodipine Besylate,57,143,4290,283.21,18,#,,,,,#,
+1003910456,Scott,Emily,San Diego,CA,06,Cardiology,Claim-Specialty,Atenolol,Atenolol,12,26,780,18.77,,,12,26,18.77,780,*,
+1003910456,Scott,Emily,San Diego,CA,06,Cardiology,Claim-Specialty,Atorvastatin Calcium,Atorvastatin Calcium,59,143,4290,835.6,20,,59,143,835.6,4290,,20
+1003910456,Scott,Emily,San Diego,CA,06,Cardiology,Claim-Specialty,Carvedilol,Carvedilol,43,113,3390,298.56,,,43,113,298.56,3390,*,
+1003910456,Scott,Emily,San Diego,CA,06,Cardiology,Claim-Specialty,Clonidine Hcl,Clonidine Hcl,11,31,930,215.53,,*,,,,,*,
+1003910456,Scott,Emily,San Diego,CA,06,Cardiology,Claim-Specialty,Clopidogrel,Clopidogrel Bisulfate,23,61,1830,358.81,,,23,61,358.81,1830,*,
+1003910456,Scott,Emily,San Diego,CA,06,Cardiology,Claim-Specialty,Digoxin,Digoxin,17,48.4,1451,272.31,,,17,48.4,272.31,1451,*,
+1003910456,Scott,Emily,San Diego,CA,06,Cardiology,Claim-Specialty,Eliquis,Apixaban,28,68,2040,38932.96,,,28,68,38932.96,2040,*,
+1003910456,Scott,Emily,San Diego,CA,06,Cardiology,Claim-Specialty,Entresto,Sacubitril/Valsartan,47,75.1,2254,43478.61,,,47,75.1,43478.61,2254,*,
+1003910456,Scott,Emily,San Diego,CA,06,Cardiology,Claim-Specialty,Furosemide,Furosemide,17,43,1290,65.03,,,17,43,65.03,1290,*,
+1003910456,Scott,Emily,San Diego,CA,06,Cardiology,Claim-Specialty,Hydralazine Hcl,Hydralazine Hcl,21,35,1050,266.73,,#,,,,,*,
+1003910456,Scott,Emily,San Diego,CA,06,Cardiology,Claim-Specialty,Hydrochlorothiazide,Hydrochlorothiazide,15,27,810,17.42,,,15,27,17.42,810,*,
+1003910456,Scott,Emily,San Diego,CA,06,Cardiology,Claim-Specialty,Isosorbide Mononitrate Er,Isosorbide Mononitrate,19,54.8,1620,289.55,,#,,,,,*,
+1003910456,Scott,Emily,San Diego,CA,06,Cardiology,Claim-Specialty,Jardiance,Empagliflozin,38,48,1440,26709.72,,,38,48,26709.72,1440,*,
+1003910456,Scott,Emily,San Diego,CA,06,Cardiology,Claim-Specialty,Lisinopril,Lisinopril,38,96,2880,177.07,13,,38,96,177.07,2880,,13
+1003910456,Scott,Emily,San Diego,CA,06,Cardiology,Claim-Specialty,Losartan Potassium,Losartan Potassium,33,97,2910,363.25,,,33,97,363.25,2910,*,
+1003910456,Scott,Emily,San Diego,CA,06,Cardiology,Claim-Specialty,Metoprolol Succinate,Metoprolol Succinate,26,76,2280,447.17,,,26,76,447.17,2280,*,
+1003910456,Scott,Emily,San Diego,CA,06,Cardiology,Claim-Specialty,Metoprolol Tartrate,Metoprolol Tartrate,23,67,2010,158.18,,,23,67,158.18,2010,*,
+1003910456,Scott,Emily,San Diego,CA,06,Cardiology,Claim-Specialty,Nitroglycerin,Nitroglycerin,14,20.3,610,437.75,,#,,,,,*,
+1003910456,Scott,Emily,San Diego,CA,06,Cardiology,Claim-Specialty,Praluent Pen,Alirocumab,16,16,448,7553.42,,,16,16,7553.42,448,*,
+1003910456,Scott,Emily,San Diego,CA,06,Cardiology,Claim-Specialty,Repatha Sureclick,Evolocumab,32,73,2170,41305.04,,#,,,,,*,
+1003910456,Scott,Emily,San Diego,CA,06,Cardiology,Claim-Specialty,Rosuvastatin Calcium,Rosuvastatin Calcium,49,115.1,3453,823.09,13,,49,115.1,823.09,3453,,13
+1003910456,Scott,Emily,San Diego,CA,06,Cardiology,Claim-Specialty,Spironolactone,Spironolactone,12,22,660,49.14,,,12,22,49.14,660,*,
+1003910456,Scott,Emily,San Diego,CA,06,Cardiology,Claim-Specialty,Valsartan,Valsartan,86,214,6420,1645.13,25,#,,,,,#,
+1003910456,Scott,Emily,San Diego,CA,06,Cardiology,Claim-Specialty,Xarelto,Rivaroxaban,64,116,3480,63477.96,15,,64,116,63477.96,3480,,15
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Acarbose,Acarbose,20,20,600,372.04,,,20,20,372.04,600,*,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Albuterol Sulfate Hfa,Albuterol Sulfate,77,77,2039,2573.57,17,#,,,,,#,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Alcohol Prep Pads,Alcohol Antiseptic Pads,24,42.1,1263,815.87,,,24,42.1,815.87,1263,*,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Alcohol Swabs,Alcohol Antiseptic Pads,23,71,2130,112.59,,#,,,,,*,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Alendronate Sodium,Alendronate Sodium,27,27,756,18.73,,,27,27,18.73,756,*,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Allopurinol,Allopurinol,233,279,8269,769.41,26,#,,,,,#,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Alogliptin-Metformin,Alogliptin Benz/Metformin Hcl,16,24,720,4199.96,,,16,24,4199.96,720,*,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Alprazolam,Alprazolam,84,84,2445,247.06,14,,84,84,247.06,2445,,14
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Amiodarone Hcl,Amiodarone Hcl,510,550.4,16364,6179.37,56,,510,550.4,6179.37,16364,,56
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Amlodipine Besylate,Amlodipine Besylate,608,737.1,21954,1183.58,81,,595,724.1,1172.91,21564,#,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Amlodipine-Olmesartan,Amlodipine Bes/Olmesartan Med,43,49,1470,1265.53,,,43,49,1265.53,1470,*,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Amoxicillin-Clavulanate Potass,Amoxicillin/Potassium Clav,14,14,110,89.53,13,#,,,,,#,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Anoro Ellipta,Umeclidinium Brm/Vilanterol Tr,75,81,2430,36876.71,11,,75,81,36876.71,2430,,11
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Armodafinil,Armodafinil,20,20,600,703.76,,,20,20,703.76,600,*,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Atenolol,Atenolol,173,216,6480,773.1,24,#,,,,,#,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Atorvastatin Calcium,Atorvastatin Calcium,797,971.8,28973,3010.16,102,,762,935.8,2914.62,27893,#,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Azelastine Hcl,Azelastine Hcl,47,53.3,1598,707.82,,,47,53.3,707.82,1598,*,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Azithromycin,Azithromycin,44,44,220,113.29,37,#,,,,,#,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Baclofen,Baclofen,15,15,413,694.89,,,15,15,694.89,413,*,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Basaglar Kwikpen U-100,"Insulin Glargine,hum.Rec.Anlog",18,24,719,2606.49,,,18,24,2606.49,719,*,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Belsomra,Suvorexant,48,48,1440,21019.12,,,48,48,21019.12,1440,*,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Benicar,Olmesartan Medoxomil,24,24,720,10433.51,,,24,24,10433.51,720,*,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Breo Ellipta,Fluticasone/Vilanterol,54,54,1620,21299.76,,,54,54,21299.76,1620,*,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Breztri Aerosphere,Budesonide/Glycopyr/Formoterol,56,59,1770,34319.92,,,56,59,34319.92,1770,*,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Brilinta,Ticagrelor,38,46,1380,19834.77,,,38,46,19834.77,1380,*,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Bumetanide,Bumetanide,62,62,1860,1057.01,,,62,62,1057.01,1860,*,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Buspirone Hcl,Buspirone Hcl,67,67,1860,101.94,,,67,67,101.94,1860,*,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Bystolic,Nebivolol Hcl,11,13,390,2528.78,,,11,13,2528.78,390,*,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Candesartan Cilexetil,Candesartan Cilexetil,18,20,600,461.45,,,18,20,461.45,600,*,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Captopril,Captopril,102,104,2171,1674.14,14,#,,,,,#,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Carbidopa-Levodopa,Carbidopa/Levodopa,35,35,1050,396.93,,,35,35,396.93,1050,*,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Carvedilol,Carvedilol,830,931,27885,1884.71,95,,806,907,1835.79,27165,#,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Carvedilol Er,Carvedilol Phosphate,23,29,870,6975.77,,,23,29,6975.77,870,*,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Celecoxib,Celecoxib,38,38,1140,306.94,,,38,38,306.94,1140,*,
+1003914227,Milstein,Anna,Los Angeles,CA,06,Cardiology,Claim-Specialty,Chlorhexidine Gluconate,Chlorhexidine Gluconate,35,44.1,1301,162.46,,,35,44.1,162.46,1301,*,

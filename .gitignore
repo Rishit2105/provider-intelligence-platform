@@ -1,0 +1,36 @@
+data/raw/
+__pycache__/
+*.pyc
+.DS_Store
+.databricks/
+
+# Credentials / secrets
+.env
+.env.*
+*.env
+credentials.json
+*token*
+.databrickscfg
+
+# Python
+*.pyo
+*.egg-info/
+.eggs/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+dist/
+build/
+
+# Databricks
+.databricks/
+*.databricks-workspace
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db

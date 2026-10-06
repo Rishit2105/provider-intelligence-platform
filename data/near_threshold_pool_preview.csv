@@ -1,0 +1,18 @@
+source,source_npi,source_last,source_first,source_city,source_state,source_specialty_label,candidate_npi,candidate_last,candidate_first,candidate_city,score,last_score,first_score,tier,collision_flag
+open_payments,1992969596,HUSSAIN,SYED,MODESTO,CA,general_cardiology,1013088046,HUSAIN,SYEDA,ANAHEIM,0.964,0.9666666666666668,0.96,review,False
+open_payments,1992023188,GONG,TIMOTHY,LONG BEACH,CA,general_cardiology,1033125075,ONG,TIMOTHY,SAN JOSE,0.95,0.9166666666666666,1.0,review,False
+open_payments,1669644951,NGUYEN,TUAN,Fountain Valley,CA,general_cardiology,1003256843,NGUYEN,TAN,SUNNYVALE,0.97,1.0,0.925,review,False
+open_payments,1982667135,SPIEGEL,DAVID,VISTA,CA,general_cardiology,1023092590,SIEGEL,DAVID,MATHER,0.9743,0.9571428571428572,1.0,review,False
+open_payments,1619397296,KIM,HYUNGJIN,LOMA LINDA,CA,general_cardiology,1013023365,KIM,HYUN,SAN DIEGO,0.96,1.0,0.9,review,False
+open_payments,1528166105,NGUYEN,MINH,LONG BEACH,CA,general_cardiology,1013408343,NGUYEN,MINHTHAO,WESTMINSTER,0.96,1.0,0.9,review,False
+open_payments,1346216009,CHU,JAMES,Orange,CA,general_cardiology,1023177623,CHOU,JAMES,PANORAMA CITY,0.96,0.9333333333333332,1.0,review,False
+open_payments,1295914216,SINGH,HARPREET,FOUNTAIN VALLEY,CA,general_cardiology,1003956863,SINGH,HARJEET,BAKERSFIELD,0.9633,1.0,0.9083333333333332,review,False
+open_payments,1982136420,SINGH,RAMAN,ROSEVILLE,CA,general_cardiology,1013937218,SINGH,RAM,LOS ANGELES,0.9627,1.0,0.9066666666666668,review,False
+open_payments,1326627662,LIU,MICHAEL,STANFORD,CA,general_cardiology,1023758380,LI,MICHAEL,STANFORD,0.9467,0.9111111111111112,1.0,review,False
+part_d,1134165194,Nguyen,Thanh,Glendale,CA,general_cardiology,1013916048,NGUYEN,THANG,SUN CITY,0.968,1.0,0.92,review,False
+part_d,1295914216,Singh,Harpreet,Fountain Valley,CA,general_cardiology,1003956863,SINGH,HARJEET,BAKERSFIELD,0.9633,1.0,0.9083333333333332,review,False
+part_d,1528166105,Nguyen,Minh,Long Beach,CA,general_cardiology,1013408343,NGUYEN,MINHTHAO,WESTMINSTER,0.96,1.0,0.9,review,False
+part_d,1619397296,Kim,Hyungjin,Loma Linda,CA,general_cardiology,1013023365,KIM,HYUN,SAN DIEGO,0.96,1.0,0.9,review,False
+part_d,1669644951,Nguyen,Tuan,Fountain Valley,CA,general_cardiology,1003256843,NGUYEN,TAN,SUNNYVALE,0.97,1.0,0.925,review,False
+part_d,1982667135,Spiegel,David,Vista,CA,general_cardiology,1023092590,SIEGEL,DAVID,MATHER,0.9743,0.9571428571428572,1.0,review,False
+part_d,1982136420,Singh,Raman,Roseville,CA,general_cardiology,1013937218,SINGH,RAM,LOS ANGELES,0.9627,1.0,0.9066666666666668,review,False
